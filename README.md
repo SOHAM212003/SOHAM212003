@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+#  Soham Ghuge:
 Google Certified Professional Data Engineer | OCI Generative AI AND DATA SCIENCE Professional<br>**Computer Engineering '25 | Honors in Data Science - 8.19 CGPA**<br>I am a recent graduate engineering student bridging the gap between **Scalable Cloud Infrastructure** and **Advanced AI Analytics**. I specialize in architecting secure ETL/ELT pipelines on **GCP**, Data Science Life-Cycle and deploying Generative AI models on **OCI**, and building predictive analytics solutions that drive business value.<br>-🔭 I’m currently working on **Optical Character Recognition (OCR) and Intelligent Document Processing (IDP)**<br>- 🎓 **Certifications:** Google Professional Data Engineer, OCI GenAI Professional, OCI Data Science Professional<br>- 👯 I’m looking to collaborate on **Cloud Data Engineering & Machine Learning Projects**<br>- 💬Focused on **Data Science, Data Engineering, GCP, BigQuery, Airflow, Generative AI, and Data Security**<br>- 📫 How to reach me: [sohamghuge2003@gmail.com](mail : sohamghuge2003@gmail.com)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soham-ghuge-98521a272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamghuge2003@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-ghuge-98521a272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamghuge2003@gmail.com) 
 
 ---
 
