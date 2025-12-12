@@ -37,7 +37,10 @@ Google Certified Professional Data Engineer | OCI Generative AI AND DATA SCIENCE
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SOHAM212003&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SOHAM212003&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAM212003&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
